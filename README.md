@@ -7,15 +7,6 @@
 > ⚠️ **Decision support only.** Never initiate, authorize, or transfer a payment. Do not claim to check a live global spam or fraud database unless a real data provider is configured. All signals are locally evaluated.
 
 ---
-
-## 📸 Screenshot
-
-| Live Evaluation | Audit | Risk Signals |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/scamshield/ai/main/screenshots/live.png" width="420" /> | <img src="https://raw.githubusercontent.com/scamshield/ai/main/screenshots/audit.png" width="420" /> | <img src="https://raw.githubusercontent.com/scamshield/ai/main/screenshots/signals.png" width="420" /> |
-
----
-
 ## ✨ Features
 
 | Feature | Description |
